@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm engineer in Turkey, BackEnd and FrontEnd developer.
+I'm engineer in Turkey, BackEnd developer.
 
 
 ## 🌐 Socials:
